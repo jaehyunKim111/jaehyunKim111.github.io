@@ -1,0 +1,30 @@
+#content {
+  width: 40%;
+  margin: 0px auto;
+  background-color: white;
+  padding: 10px 50px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px;
+}
+
+img {
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+#list-div {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+#mytable td {
+  padding: 15px;
+  border: 1px solid white;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: burlywood;
+}
